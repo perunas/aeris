@@ -1,0 +1,19 @@
+{
+  "size": ["x", "y"],
+  "position": ["x", "y"],
+  "background": {
+    "animation": "on",
+    "inages": ["image_1.png", "image_2.png"]
+  },
+  "drag_drop": "on",                              // можно ли перетаскивать area
+  "container": {
+    "is_container": "true",                       // можно ли перебрасывать сюда элементы
+    "elements": [
+      "element_1",
+      "element_2",
+      "..."
+    ]
+  },
+  "is_active": "true",                            // состояние объекта - активен, не активен
+  "is_enabled": "true",
+}

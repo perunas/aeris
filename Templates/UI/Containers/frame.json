@@ -1,0 +1,13 @@
+{
+  "area": "area",
+  "scroll": {
+    "vertical": {
+      "enabled": "true"
+    },
+    "horizontal": {
+      "enabled": "true"
+    }
+  },
+  "context_menu": "area",                         // контекстное меню
+  "tooltip": "area"                            // всплывающая подсказка
+}
