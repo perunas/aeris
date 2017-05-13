@@ -1,0 +1,11 @@
+{
+  "npc":{
+    "is_quest_npc": true, //является ли нпс
+    "get_quests": true, //раздает ли квесты
+    "guests": ["quest1", "quest2..."], //список квестов
+    "quest_trigger": false, //условие открытия для игрока нового квеста
+    "is_traider_npc": true, //торговец
+    "cash": 1000, //сумма на счету торговца
+    "merch": ["product1", "product2..."], //список товаров
+  }
+}

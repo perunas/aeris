@@ -21,6 +21,7 @@ Mechanics
 book of spells, physics, day and night, time of year
 
 About game
-
-
+стиль - Banner saga 
+боевка как в witcher + magica
+голосовое управление?
 modal

@@ -1,0 +1,6 @@
+{
+  "enemy":{
+  "is_enemy": true,               //является ли объект врагом
+  "behavior": ["agresive", "passive"],//поведение объекта
+  },
+}
