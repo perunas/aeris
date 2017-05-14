@@ -1,27 +1,39 @@
-Style
-2-2.5D оформление
-1)pixel art
-2)cartoon style
-3)black & white (+key?)
-4)...
+# Об игре
 
-Genre
-1)RPG + Adventures + *
-*)головоломки/пазлы
+## Основное
+* Модульность
+* Боевка
+  * RPG (Witcher, Risen и т.д.)
+  * Составление заклинаний (Magica)
+    * Автодополнение для заклинаний (zsh) [?]
+    * Голосовое управление боем [?]
 
-Setting
-1)Fantasy
+## Стилистика
+* 2-2.5 D
+* Мультяшный стиль (Banner Saga)
+* Ролики со "статичной" картинкой (World of Warcraft: Legion)
+* Пиксель арт [?]
+* Черно-белые сцены + ключевой цвет [?]
 
-Functions
-magic, inventary, without levels only abilities, spellbook with scripts,
-cursours-target battles, without classes, quest creator (from another players)
+## Жанр
+* RPG
+* Приключения
+* Головоломки / пазлы
 
+## Сеттинг
+* Фэнтези
 
-Mechanics
-book of spells, physics, day and night, time of year
-
-About game
-стиль - Banner saga 
-боевка как в witcher + magica
-голосовое управление?
-modal
+## Теги
+* Магия
+* Инвентарь
+* Нет уровней
+* Книга заклинаний / свитки с заклинаниями в виде скриптов
+* Прицеливание с помощью курсора в битвах [?]
+* Без привязки к классам (возможны исключения)
+* Возможность создания квестов / Quest Creator
+* Возможность создания персонажа / Character Creator
+* Физика объектов
+* Смена дня и ночи
+* Смена времен года
+* Создание предметов
+* Особые редкие артефакты (Зарич, Акаманах, Превращение в оборотня)
